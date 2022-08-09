@@ -1,6 +1,6 @@
 
 
-<h2>Used car Price Prediction Project</h2>
+<h1>Used car Price Prediction Project</h1>
 
 <details><summary> <h2> Step 1 : Data Preprocessing </h2> </summary>
 <p>
